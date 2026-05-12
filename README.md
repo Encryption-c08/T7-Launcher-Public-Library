@@ -1,0 +1,1 @@
+[![Downloads](https://img.shields.io/github/downloads/Encryption-c08/T7-Launcher-Public-Library/total?style=for-the-badge&label=downloads)](https://github.com/Encryption-c08/T7-Launcher-Public-Library/releases)
